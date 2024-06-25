@@ -1,0 +1,11 @@
+body{
+    font-family: Verdana;
+    font-size: 2.5em;
+}
+#mySubmit{
+    font-size: 1.3em;
+}
+#myCheckBox{
+    size: 10em;
+    color: red;
+}
